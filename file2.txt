@@ -1,2 +1,2 @@
-THis is the second file
+THis is the second file, first line
 This is the second line, after staging
