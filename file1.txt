@@ -1,2 +1,3 @@
 THis is the first file
 for add and commit in one command
+THird line in branch1
