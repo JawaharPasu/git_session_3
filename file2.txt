@@ -1,3 +1,3 @@
 THis is the second file, first line
 This is the second line, after staging
-this is another case of conflict
+This is the line in file2 in branch1
